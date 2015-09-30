@@ -1,12 +1,12 @@
 {
-  "name": "pn-resource",
+  "name": "phantomnet-resource",
   "version": "1.0.0-beta1",
-  "homepage": "https://github.com/green-grass/pn-resource",
+  "homepage": "https://github.com/green-grass/phantomnet-resource",
   "authors": [
     "Minh Nguyen <mnguyen284@gmail.com>"
   ],
   "description": "AngularJS Resource factory with create/update support",
-  "main": "src/pn-resource.js",
+  "main": "src/phantomnet-resource.js",
   "moduleType": [
     "amd",
     "es6",

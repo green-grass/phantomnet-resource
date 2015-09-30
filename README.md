@@ -1,1 +1,1 @@
-# pn-resource
+# phantomnet-resource
