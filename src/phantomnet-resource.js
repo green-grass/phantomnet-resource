@@ -1,5 +1,7 @@
 (function () {
 
+    'use strict';
+
     var services = angular.module("pnResource", ["ngResource"]);
 
     services.factory("Resource", ["$resource",
