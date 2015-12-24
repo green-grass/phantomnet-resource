@@ -1,6 +1,6 @@
 {
   "name": "phantomnet-resource",
-  "version": "1.0.0-beta3",
+  "version": "1.0.0-beta5",
   "homepage": "https://github.com/green-grass/phantomnet-resource",
   "authors": [
     "Minh Nguyen <mnguyen284@gmail.com>"
@@ -23,7 +23,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.7",
-    "angular-resource": "~1.4.7"
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8"
   }
 }

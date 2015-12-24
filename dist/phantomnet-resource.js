@@ -2,14 +2,14 @@
 
     'use strict';
 
-    var services = angular.module("pnResource", ["ngResource"]);
+    var services = angular.module('pnResource', ['ngResource']);
 
-    services.factory("Resource", ["$resource",
+    services.factory('Resource', ['$resource',
         function ($resource) {
             return function (url, params, methods) {
                 var defaults = {
-                    update: { method: "put", isArray: false },
-                    create: { method: "post" }
+                    update: { method: 'put', isArray: false },
+                    create: { method: 'post' }
                 };
 
                 methods = angular.extend(defaults, methods);
