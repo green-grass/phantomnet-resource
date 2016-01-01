@@ -1,6 +1,5 @@
 {
   "name": "phantomnet-resource",
-  "version": "1.0.0-beta5",
   "description": "AngularJS Resource factory with create/update support",
   "repository": {
     "type": "git",
