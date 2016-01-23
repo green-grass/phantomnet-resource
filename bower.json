@@ -1,6 +1,6 @@
 {
   "name": "phantomnet-resource",
-  "version": "1.0.0-beta6",
+  "version": "1.0.0-beta7",
   "description": "AngularJS Resource factory with create/update support",
   "main": "./dist/phantomnet-resource.js",
   "authors": [
@@ -22,7 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.8",
-    "angular-resource": "~1.4.8"
+    "angular": "~1.4.9",
+    "angular-resource": "~1.4.9"
   }
 }
